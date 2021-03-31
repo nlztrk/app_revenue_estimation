@@ -13,9 +13,6 @@ This pipeline calculates the LTV (life-time value) value of a mobile application
 - Binned Classification
 - Conclusion
 
-## Running the Whole Process
-To execute full process; you can run all notebooks, respectively.
-
 # Please cite this repository when using the content:
 ```latex
 @misc{ozturk2021_revenue,
