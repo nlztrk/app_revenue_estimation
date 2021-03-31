@@ -1,4 +1,4 @@
-# Estimating Revenues with in-app User Events
+# Estimating Revenue with in-app User Events
 
 This pipeline calculates the LTV (life-time value) value of a mobile application user by analyzing the in-app events within the first 3 days after registration. LTV value has been estimated with regression. In addition, by applying binning, it was turned into a classification problem and classification success was evaluated.
   
@@ -17,7 +17,7 @@ This pipeline calculates the LTV (life-time value) value of a mobile application
 ```latex
 @misc{ozturk2021_revenue,
 author = {Anil Ozturk},
-title = {Estimating Revenues with in-app User Events},
+title = {Estimating Revenue with in-app User Events},
 year = {2021},
 publisher = {GitHub},
 journal = {GitHub repository},
